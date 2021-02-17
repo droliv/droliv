@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Daniele Oliveira</h1>
 <h3 align="center">A Full Stack Developer from Brazil</h3>
 
