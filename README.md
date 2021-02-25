@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniele Oliveira</h1>
-<h3 align="center">A Full Stack Developer from Brazil</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **PL/Sql and Javascript**
 
